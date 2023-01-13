@@ -1,4 +1,4 @@
-package com.CodeWithHarry;
+package com.JavaFolder;
 
 import javax.swing.*;
 import java.awt.*;
